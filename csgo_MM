@@ -1,0 +1,4 @@
+bind "MWHEELUP" "+jump"
+bind "MWHEELDOWN" "+jump"
+cl_autowepswitch 0
+cl_crosshairalpha 250; cl_crosshaircolor 1; cl_crosshairdot 0; cl_crosshairgap -3; cl_crosshairsize 2; cl_crosshairstyle 4; cl_crosshairusealpha 1; cl_crosshairthickness 0; cl_crosshair_drawoutline 0;
